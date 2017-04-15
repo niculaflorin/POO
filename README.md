@@ -1,5 +1,6 @@
 # POO
 programare orientat obiect
+
 I.1. Definiti clasa "persoana", avand:
     - membri privati pentru nume (string), anul nasterii (intreg), sex
        (caracter);
