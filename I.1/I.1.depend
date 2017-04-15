@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1430324096 source:d:\info\codeblocks\dra\i.1\main.cpp
+	<iostream>
+	"persoana.h"
+	"baza_de_date.h"
+	<string>
+	<cstring>
+	<stdlib.h>
+
+1385320478 source:f:\i.1\main.cpp
+	<iostream>
+
+1429595010 source:f:\i.1\src\baza_de_date.cpp
+	"baza_de_date.h"
+	"persoana.h"
+
+1429594984 f:\i.1\include\baza_de_date.h
+	"persoana.h"
+
+1429594480 f:\i.1\include\persoana.h
+	<string>
+
+1429595026 source:f:\i.1\src\persoana.cpp
+	"persoana.h"
+
+1429973414 source:d:\info\codeblocks\dra\i.1\src\persoana.cpp
+	"persoana.h"
+
+1429973467 d:\info\codeblocks\dra\i.1\include\persoana.h
+	<string>
+
+1430247896 source:d:\info\codeblocks\dra\i.1\src\baza_de_date.cpp
+	"baza_de_date.h"
+	"persoana.h"
+	<string>
+	<iostream>
+	<cstring>
+
+1429872881 d:\info\codeblocks\dra\i.1\include\baza_de_date.h
+	"persoana.h"
+	<string>
+	<iostream>
+
